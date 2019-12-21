@@ -1,0 +1,16 @@
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\CarouselandTabbed.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\Views\TabSayfasi.xaml.g.cs
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\CarouselandTabbed.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\CarouselandTabbed.AssemblyInfo.cs
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\Views\Anasayfa.xaml.g.cs
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\Views\Hakkimizda.xaml.g.cs
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\Views\Iletisim.xaml.g.cs
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\bin\Debug\netstandard2.0\CarouselandTabbed.deps.json
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\bin\Debug\netstandard2.0\CarouselandTabbed.dll
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\bin\Debug\netstandard2.0\ref\CarouselandTabbed.dll
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\bin\Debug\netstandard2.0\CarouselandTabbed.pdb
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\CarouselandTabbed.dll
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\ref\CarouselandTabbed.dll
+C:\Users\alper\Desktop\CarouselandTabbed\CarouselandTabbed\CarouselandTabbed\obj\Debug\netstandard2.0\CarouselandTabbed.pdb
