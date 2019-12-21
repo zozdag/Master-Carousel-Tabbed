@@ -11,7 +11,7 @@ namespace CarouselandTabbed
         {
             InitializeComponent();
 
-            MainPage = new TabSayfasi();
+            MainPage = new MastersPage();
         }
 
         protected override void OnStart()
